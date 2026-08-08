@@ -1,5 +1,3 @@
-# AI-Assignment
-
 # CSC3206 Artificial Intelligence - Assignment 2
 ## House Visit Tour - A* Search Implementation
 
